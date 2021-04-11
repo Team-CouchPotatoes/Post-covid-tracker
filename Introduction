@@ -1,0 +1,15 @@
+People who have been diagnosed with the Covid-19 virus, especially self-quarantined people, face difficulty in tracking the daily variation, frequency and seriousness of their symptoms. Apart from their symptoms, they have no integrated system to also track the change in their mental state. 
+We aim at developing an integrated system to track the symptoms and aid in managing them, post diagnosis of Covid-19.
+
+Our system is integrated such that it uses periodic inputs from the user in order to generate charts to show the trend in their mental or physical status(whether improving or 
+becoming worse) which would categorise the user into three forms: Very Critical,Critical,Moderate/Low.
+
+Once a user has logged in to our website/application he/she can fill in their emergency details which will be used only when they click on the emergency SOS button, which when revoked would call up the nearest healthcare facility(based on their inputs in the form)or other relatives that could come up for immediate help.This is especially useful when they are self-quarantined.This button is used when the user is physically unable to do anything on their own to helpthemselves/even speak.
+
+When flagged as critical:It will connect the patient with the nearest available medical facility in case of requirement of physical consulting or generate a list of helplines which could be available, including those associated with mental health problems.
+
+When the symptoms are mild or moderate:Website will suggest remedial measures to the user including what kinds of food intake would help with immunity, exercises or daily practices that he/she can take to keep themselves healthy throughout the infected period.
+If the patient is already taking any medicines then they will have an option of setting a reminder for taking that medicine.
+It also keeps a daily track on the user’s mental health and provides suggestions to keep themselves calm during this stressful period.
+
+SO far,there has been no proper system to check the progress of those that have been already infected by the covid virus and hence, this system could be a life saver.
